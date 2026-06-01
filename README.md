@@ -3,7 +3,7 @@
 
 Version: 1.0 Beta (Програ не имеет возможности обновляться автоматически, по этому следите за обновлениями на гитхабе)
 
-ССЫЛКА НА ПОСЛЕДНЮЮ ВЕРСИЮ: https://github.com/cklabStudio/rmrp-law-data/blob/main/RMRP%20AHK.exe
+# ССЫЛКА НА ПОСЛЕДНЮЮ ВЕРСИЮ: https://github.com/cklabStudio/rmrp-law-data/blob/main/RMRP%20AHK.exe (ОТКРЫВАТЬ ОТ ИМЕДИ АДМИНА)
 
 # FAQ
 Вопрос: К кому обратиться в случае если я найду ошибку или захочу предложить идею?
